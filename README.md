@@ -1,9 +1,3 @@
-<head>
-  <meta charset="UTF-8" />
-  <meta name="author" content="@egirlcatnip" />
-</head>
-
-
 # egirlcatnip (she/her)
 
 ![Rainbow](resources/hearts/rainbow.png)
@@ -63,6 +57,3 @@ I play Minecraft and The Binding of Isaac.
 ---
 
 @egirlcatnip 2025 v1.8 (5. 3. 2025)
-
-</html>
-
