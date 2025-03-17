@@ -1,17 +1,17 @@
 # egirlcatnip (she/her)
 
-![Rainbow](resources/hearts/rainbow.png)
-![Transgender](resources/hearts/trans.png)
-![Transfemme](resources/hearts/transfemme.png)
-![Sapphic](resources/hearts/sapphic.png)
-![Lesbian](resources/hearts/lesbian.png)
-![Bisexual](resources/hearts/bi.png)
+![Rainbow](/assets/img/hearts/rainbow.webp)
+![Transgender](/assets/img/hearts/trans.webp)
+![Transfemme](/assets/img/hearts/transfemme.webp)
+![Sapphic](/assets/img/hearts/sapphic.webp)
+![Lesbian](/assets/img/hearts/lesbian.webp)
+![Bisexual](/assets/img/hearts/bisexual.webp)
 
 ---
 
 # Who am I?
 
-I am a 19 (29. 4. 2005) year-old student.
+I am a 19 year-old student.
 <br>
 I also go by Emily, Millie or Emi.
 <br>
@@ -33,30 +33,30 @@ I am in a [sapphic](https://en.wikipedia.org/wiki/Sapphism) relationship.
 <br>
 
 ---
-
-# What do I like to do?
-I code in Rust, C, and C++.
+I love to customize all customizable.
 <br>
-I love to read fantasy novels.
+I am an amateur musician and pianist.
 <br>
-I'm an amateur musician & pianist.
+<br>
+I code in Rust, C and C++.
+<br>
+I'm looking into trying out Deno and Zig.
+<br>
+I run Codium on Fedora for my editing needs.
+<br>
+I browse the web with Zen. I host all my repositories on GitHub.
+<br>
 <br>
 I play Minecraft and The Binding of Isaac.
 <br>
- I love to customize all customizable.
- <br>
- I enjoy watching the [WAN Show](https://youtube.com/playlist?list=PL8mG-RkN2uTw7PhlnAr4pZZz2QubIbujH&si=dgG-0c1RmhKCY6b8) weekly.
+I enjoy watching the WAN show weekly.
 <br>
 
 ---
 
 # Visit my personal site?
-### Feel free to leave a comment :3
 [egirlcatnip.github.io](https://egirlcatnip.github.io/)
 
 ---
 
-@egirlcatnip 2025 v2.0 (5. 3. 2025)
-
-</html>
-
+updated `17. 03. 2025`
