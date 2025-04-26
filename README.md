@@ -27,17 +27,19 @@ of computer science at UPOL, Olomouc.
 # Visit my personal site?
 
 [egirlcatnip.github.io](https://egirlcatnip.github.io/)
+<br>
 [cv](https://egirlcatnip.github.io/cv)
 
 <hr>
 
 created by @egirlcatnip
 [source](https://github.com/egirlcatnip/egirlcatnip.github.io/)
-<br> updated `24. 04. 2025`
+<br>
+updated `24. 04. 2025`
 
 # Images
 ## Web
-[web](egirlcatnip.github.io.png)
+![web](egirlcatnip.github.io.png)
 
 ## CV
-[web](Emily_Konya_CV.png)
+![web](Emily_Konya_CV.png)
