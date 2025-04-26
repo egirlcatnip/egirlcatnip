@@ -37,9 +37,3 @@ created by @egirlcatnip
 <br>
 updated `24. 04. 2025`
 
-# Images
-## Web
-![web](egirlcatnip.github.io.png)
-
-## CV
-![web](Emily_Konya_CV.png)
