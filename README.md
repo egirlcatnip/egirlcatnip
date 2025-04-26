@@ -32,8 +32,5 @@ of computer science at UPOL, Olomouc.
 
 <hr>
 
-created by @egirlcatnip
-[source](https://github.com/egirlcatnip/egirlcatnip.github.io/)
-<br>
 updated `24. 04. 2025`
 
