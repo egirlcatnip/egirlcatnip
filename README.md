@@ -22,7 +22,7 @@ of computer science at UPOL, Olomouc.
 <br>
 [egirlcatnip @github](https://github.com/egirlcatnip)
 <br>
-[egirlcatnip @discord](https://discord.com/egirlcatnip)
+[egirlcatnip @discord](https://discord.com/users/egirlcatnip)
 
 # Visit my personal site?
 
