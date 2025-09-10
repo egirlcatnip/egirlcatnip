@@ -1,6 +1,5 @@
-# Emily Konya
-
-nerd.
+# Emi
+`Hardware is well, it's time for software to catch up.`
 
 <hr>
 
@@ -13,16 +12,15 @@ nerd.
 
 <hr>
 
-[egirlcatnip @gmail](mailto:egirlcatnip@gmail.com)
+egirlcatnip [@gmail](mailto:egirlcatnip@gmail.com)
 <br>
-[egirlcatnip @github](https://github.com/egirlcatnip)
+egirlcatnip [@github](https://github.com/egirlcatnip)
 <br>
-[egirlcatnip @discord](https://discord.com/users/244471710991122432)
-
-[egirlcatnip.github.io](https://egirlcatnip.github.io/)
+egirlcatnip [@discord](https://discord.com/users/244471710991122432)
 
 <hr>
 
-updated `16-08-2025`
+updated `10-09-2025`
+
 
 
